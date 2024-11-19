@@ -72,18 +72,18 @@ cd <project-name>
    ```
 2. **Update the .env File**
     - Update the .env file with your database credentials and other configurations:
-        <span>APP_NAME=Laravel</span>
-        <span>APP_ENV=local</span>
-        <span>APP_KEY= </span>
-        <span>APP_DEBUG=true</span>
-        <span>APP_URL=http://localhost</span>
+        <p>APP_NAME=Laravel</p>
+        <p>APP_ENV=local</p>
+        <p>APP_KEY= </p>
+        <p>APP_DEBUG=true</p>
+        <p>APP_URL=http://localhost</p>
         
-        <span>DB_CONNECTION=mysql</span>
-        <span>DB_HOST=127.0.0.1</span>
-        <span>DB_PORT=3306</span>
-        <span>DB_DATABASE=your_database_name</span>
-        <span>DB_USERNAME=your_username</span>
-        <span>DB_PASSWORD=your_password</span>
+        <p>DB_CONNECTION=mysql</p>
+        <p>DB_HOST=127.0.0.1</p>
+        <p>DB_PORT=3306</p>
+        <p>DB_DATABASE=your_database_name</p>
+        <p>DB_USERNAME=your_username</p>
+        <p>DB_PASSWORD=your_password</p>
         
 ### Step 4: Generate Application Key
 - Run the following command to generate the APP_KEY in your .env file:
